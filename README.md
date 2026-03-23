@@ -1,4 +1,4 @@
-# TP5 - Introduction à ClickHouse
+# - Introduction à ClickHouse
 
 TP d'introduction à **ClickHouse**, une base de données orientée colonnes optimisée pour l'analyse de données (OLAP).
 
