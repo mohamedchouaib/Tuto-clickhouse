@@ -33,7 +33,7 @@ docker compose up --build -d
 
 Accéder au notebook : [http://localhost:8888](http://localhost:8888)
 
-Ouvrir le fichier `tp5_clickhouse.ipynb`.
+Ouvrir le fichier `clickhouse.ipynb`.
 
 ## Arrêt
 
@@ -55,7 +55,7 @@ tp5-clickhouse/
 ├── Dockerfile                  # Image Jupyter avec dépendances
 ├── requirements.txt            # Dépendances Python
 ├── README.md                   # Ce fichier
-├── tp5_clickhouse.ipynb        # Notebook du TP
+├── clickhouse.ipynb        # Notebook du TP
 └── init-db/
     └── 01_init.sql             # Schéma + données initiales
 ```
